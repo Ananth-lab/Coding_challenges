@@ -4,6 +4,7 @@ class Node{
         this.next = next;
     }
 }
+Remove_Linked_List_Elements.js
 
 
 class LinkedList{
